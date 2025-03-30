@@ -19,15 +19,15 @@ For example, view of the XML Civ4 Promotions page.
 
 ### In English 
 
-![img1](images\civ4promotioninfos_english_translated.PNG)
+![img1](/images/civ4promotioninfos_english_translated.PNG)
 
 This is how you can translate the page from japanese to english, on Google Chrome for example:
 
-![img2](images\website_home_page_english_how_to_translate.png)
+![img2](images/website_home_page_english_how_to_translate.png)
 
 ### In Japanese
 
-![img3](images\civ4promotioninfos_japanese_original.PNG)
+![img3](images/civ4promotioninfos_japanese_original.PNG)
 
 ## Example page view 2
 
@@ -35,11 +35,11 @@ For example, view of the home page of the website.
 
 ### In English
 
-![img4](images\website_home_page_english_translated.PNG)
+![img4](images/website_home_page_english_translated.PNG)
 
 ### In Japanese 
 
-![img5](images\civ4promotioninfos_japanese_original.PNG)
+![img5](images/civ4promotioninfos_japanese_original.PNG)
 
 # 転載について
 本文の内容は特記がない限りCC BY 4.0 国際 ライセンス に従って利用ができます。
