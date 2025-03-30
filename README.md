@@ -23,7 +23,7 @@ For example, view of the XML Civ4 Promotions page.
 
 This is how you can translate the page from japanese to english, on Google Chrome for example:
 
-![img2](images/website_home_page_english_how_to_translate.png)
+![img2](images/civ4promotioninfos_how_to_translate_from_japanese_to_english.png)
 
 ### In Japanese
 
@@ -39,7 +39,7 @@ For example, view of the home page of the website.
 
 ### In Japanese 
 
-![img5](images/civ4promotioninfos_japanese_original.PNG)
+![img5](images/website_home_page_japanese_original.PNG)
 
 # 転載について
 本文の内容は特記がない限りCC BY 4.0 国際 ライセンス に従って利用ができます。
